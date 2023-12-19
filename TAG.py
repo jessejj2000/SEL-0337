@@ -14,8 +14,6 @@ GPIO.setup(21, GPIO.OUT)
 acesso = False
 
 
-print("Chega mais perto, vai")
-
 while True:
     id,texto = leitor.read()
     

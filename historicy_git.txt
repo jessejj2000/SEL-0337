@@ -1,3 +1,55 @@
+commit 44bf4a141a74efff5ab8ccca77364ec4f6a8a202
+Merge: 0a0bcc8 b199ae9
+Author: jesse <jessejjr26@usp.br>
+Date:   Mon Dec 18 21:52:38 2023 -0300
+
+    Merge branch 'main' of https://github.com/jessejj2000/SEL-0337
+
+commit 0a0bcc8d44016e9296a507621c1f3a86ee8706ca
+Author: jesse <jessejjr26@usp.br>
+Date:   Mon Dec 18 21:46:55 2023 -0300
+
+    tag q a gente tinha esquecido
+
+commit b199ae9a91d64643f61878970ebe10031c4edb74
+Author: Jessé <84997702+jessejj2000@users.noreply.github.com>
+Date:   Mon Dec 18 21:32:00 2023 -0300
+
+    Update README.md
+
+commit 7120e14893162fd01295849568f5d022c54aba92
+Author: Jessé <84997702+jessejj2000@users.noreply.github.com>
+Date:   Mon Dec 18 21:22:11 2023 -0300
+
+    Update README.md
+
+commit caa024aae78b409e4a9c16f6e9cbc168a9a19178
+Author: Jessé <84997702+jessejj2000@users.noreply.github.com>
+Date:   Mon Dec 18 21:19:06 2023 -0300
+
+    Update README.md
+
+commit 4fb749cad4fe3012c0c8b4f1b33580ab1730a113
+Author: jesse <jessejjr26@usp.br>
+Date:   Mon Dec 18 21:15:08 2023 -0300
+
+    fotos da prática
+
+commit 025d6b7a2f0328dd180243a6fb81f2955b392113
+Merge: 8d85191 57431ef
+Author: Jessé <84997702+jessejj2000@users.noreply.github.com>
+Date:   Mon Dec 18 21:09:59 2023 -0300
+
+    Merge pull request #1 from pedro-jacomassi/patch-2
+    
+    Update README.md
+
+commit 57431ef6ede415edca909d7d180730bb3f44027a
+Author: pedro-jacomassi <117457966+pedro-jacomassi@users.noreply.github.com>
+Date:   Mon Dec 18 21:04:56 2023 -0300
+
+    Update README.md
+
 commit 8d85191c86e22ad37654734be401be21464d41d2
 Author: jesse <jessejjr26@usp.br>
 Date:   Mon Dec 18 09:01:07 2023 -0300
