@@ -10,6 +10,8 @@ Nas imagens a seguir estão apresentadas fotografias de execução da prática. 
 ![Funcionamento do programa para tag RFID](./fotos/IMG-2108.JPG)
 
 # CÂMERA
-O propósito do projeto da câmera era criar um circuito no qual, quando o código identificasse um rosto à frente da câmera, o LED seria aceso, indicando acesso liberado para a pessoa. Enquanto não houvesse pessoas à frente da câmera, o LED permaneceria apagado, indicando acesso negado.
+O propósito do projeto da câmera era criar um circuito no qual, quando o código identificasse um rosto à frente da câmera, o LED seria aceso, indicando acesso liberado para a pessoa imprimindo no terminal "Rosto Reconhecido".Enquanto não houvesse pessoas à frente da câmera, o LED permaneceria apagado, indicando acesso negado.
 
 Para realizar o reconhecimento facial, foi utilizado a biblioteca OpenCV e o método Haar Cascade, este obtido no algoritmo haarcascade_frontalface_default. Ao detectar a presença de uma pessoa à frente da câmera, o sistema iniciava o processo de captura de fotos do rosto da pessoa, armazenando-as na pasta "detected_faces". Esse procedimento permitiria registrar a movimentação das pessoas naquele local, e as imagens seriam referenciadas com a data do evento da foto.
+
+O código está localizado no arquivo câmera.py e infelizmente não foi tirada a foto do seu funciomento. Porém, ele estava funcionando perfeitamente, basta olhar o código e executa-lo para conferir.
