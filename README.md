@@ -6,8 +6,8 @@ Nesta parte da prática, foi desenvolvido um programa em python que foi capaz de
 Foi utilizado para isso, um módulo RFID-RC522 operando com High Frequency. A comunicação com a Raspiberry Pi é feito através da SPI. O programa desenvolvido está no código TAG.py deste repositório.
 Nas imagens a seguir estão apresentadas fotografias de execução da prática. A primeira representa a montagem do circuito com os LEDs, seus respectivos resistores e o módulo de identificação, a segunda representa o acesso liberado e a terceira, o acesso negado.
 ![Funcionamento do programa para tag RFID](./fotos/IMG-2107.JPG)
-![Funcionamento do programa para tag RFID](./fotos/IMG-2108.JPG)
 ![Funcionamento do programa para tag RFID](./fotos/IMG-2109.JPG)
+![Funcionamento do programa para tag RFID](./fotos/IMG-2108.JPG)
 
 # CÂMERA
 O propósito do projeto da câmera era criar um circuito no qual, quando o código identificasse um rosto à frente da câmera, o LED seria aceso, indicando acesso liberado para a pessoa. Enquanto não houvesse pessoas à frente da câmera, o LED permaneceria apagado, indicando acesso negado.
